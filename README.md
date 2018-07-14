@@ -4,19 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+7/11/18
 
 ### Student Name:  
-(First and Last Name)
+Jonathon Zayas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To access elements by id, tag name, class, name or selector
+To access element content, CSS properties, and attributes
+To add and remove document nodes
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/zayajf/lesson6_javascript3/blob/master/photos.js
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned about DOM
+2. Learned how to use different elements
+3. Learned about BOM
