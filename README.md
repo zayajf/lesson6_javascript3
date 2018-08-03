@@ -7,7 +7,7 @@ Web Application Development
 7/11/18
 
 ### Student Name:  
-Jonathon Zayas
+Jonathon Zayashttps://github.com/zayajf/lesson3_VersionControl
 
 ### Project Description:
 To access elements by id, tag name, class, name or selector
@@ -15,7 +15,7 @@ To access element content, CSS properties, and attributes
 To add and remove document nodes
 
 ### View Project:
-https://github.com/zayajf/lesson6_javascript3/blob/master/photos.js
+https://zayajf.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
 1. Learned about DOM
